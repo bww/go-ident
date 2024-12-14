@@ -1,5 +1,7 @@
 github.com/bww/go-xid v0.1.1 h1:WobClWCjzNMwpqxbyhdNj+x9Bbi4DINLnipJ43FVCUk=
 github.com/bww/go-xid v0.1.1/go.mod h1:5SJbjdZZ3KkhbI0biQtDQXYSMnK7ODIHk1aqSnrAwQY=
+github.com/bww/go-xid v0.2.0 h1:iUEnJbqN2KPDMmEWTQpVB41Hrz7Hg+6JdGgQLG4UNVc=
+github.com/bww/go-xid v0.2.0/go.mod h1:5SJbjdZZ3KkhbI0biQtDQXYSMnK7ODIHk1aqSnrAwQY=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/lib/pq v1.10.9 h1:YXG7RB+JIjhP29X+OtkiDnYaXQwpS4JEWq7dtCCRUEw=

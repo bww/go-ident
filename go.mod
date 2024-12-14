@@ -3,7 +3,7 @@ module github.com/bww/go-ident
 go 1.22.3
 
 require (
-	github.com/bww/go-xid v0.1.1
+	github.com/bww/go-xid v0.2.0
 	github.com/lib/pq v1.10.9
 	github.com/stretchr/testify v1.9.0
 )
